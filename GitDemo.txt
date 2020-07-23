@@ -1,4 +1,6 @@
 This is a Demo text document to check all the git commands and to push the file to remote
 server.
 
+worked with all commands like remote add,push ,pull,banching etc.
+
 My first EPAM PEP2020 Task.
